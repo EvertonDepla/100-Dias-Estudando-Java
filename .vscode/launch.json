@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCase2",
+            "request": "launch",
+            "mainClass": "edu.everton.dia8.SwitchCase2",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "edu.everton.dia8.SwitchCase",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
+            "name": "CondicaoTernaria2",
+            "request": "launch",
+            "mainClass": "edu.everton.dia8.CondicaoTernaria2",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
+            "name": "CondicaoTernaria",
+            "request": "launch",
+            "mainClass": "edu.everton.dia8.CondicaoTernaria",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
+            "name": "CondicaoEncadeada",
+            "request": "launch",
+            "mainClass": "edu.everton.dia8.CondicaoEncadeada",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "ContaTerminal",
             "request": "launch",
             "mainClass": "edu.everton.dia7.ContaTerminal",
