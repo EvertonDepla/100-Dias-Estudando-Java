@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "edu.everton.dia9.ExemploForArray",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "edu.everton.dia9.ExemploFor",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "SwitchCase2",
             "request": "launch",
             "mainClass": "edu.everton.dia8.SwitchCase2",
