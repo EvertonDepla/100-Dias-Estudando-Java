@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "edu.everton.dia10.DoWhile",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "edu.everton.dia10.While",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "ExemploForArray",
             "request": "launch",
             "mainClass": "edu.everton.dia9.ExemploForArray",
