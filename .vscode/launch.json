@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Swing",
+            "request": "launch",
+            "mainClass": "edu.everton.dia18.Swing",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "JokenPo",
             "request": "launch",
             "mainClass": "edu.everton.dia13.JokenPo",
