@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaCadastro",
+            "request": "launch",
+            "mainClass": "edu.everton.dia22.SistemaCadastro",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "Escola",
             "request": "launch",
             "mainClass": "edu.everton.dia21.Escola",
