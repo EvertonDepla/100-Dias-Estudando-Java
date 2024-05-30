@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "edu.everton.dia23.SistemaIbge",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "SistemaCadastro",
             "request": "launch",
             "mainClass": "edu.everton.dia22.SistemaCadastro",
