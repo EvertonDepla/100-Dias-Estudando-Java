@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "iPhone",
+            "request": "launch",
+            "mainClass": "edu.everton.dia31.iPhone",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "edu.everton.dia30.Main",
