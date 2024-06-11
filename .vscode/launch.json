@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TesteAnimais",
+            "request": "launch",
+            "mainClass": "edu.everton.dia34.TesteAnimais",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "edu.everton.dia32.Main",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "Carro",
             "request": "launch",
             "mainClass": "edu.everton.dia33.Carro",

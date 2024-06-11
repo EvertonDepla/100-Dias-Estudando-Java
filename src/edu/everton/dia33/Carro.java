@@ -9,13 +9,11 @@ package edu.everton.dia33;
             this.marcha = 1;
         }
     
-        @Override
         public void acelerar() {
             velocidade += 10;
             System.out.println("O carro acelerou. Velocidade atual: " + velocidade + " km/h");
         }
     
-        @Override
         public void frear() {
             velocidade -= 10;
             if (velocidade < 0) {
@@ -24,7 +22,6 @@ package edu.everton.dia33;
             System.out.println("O carro freiou. Velocidade atual: " + velocidade + " km/h");
         }
     
-        @Override
         public void trocarMarcha(int marcha) {
             this.marcha = marcha;
             System.out.println("O carro trocou para a marcha " + this.marcha);
