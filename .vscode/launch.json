@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculadoraSimples",
+            "request": "launch",
+            "mainClass": "edu.everton.dia35.CalculadoraSimples",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "TesteAnimais",
             "request": "launch",
             "mainClass": "edu.everton.dia34.TesteAnimais",
