@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CircularLinkedList",
+            "request": "launch",
+            "mainClass": "edu.everton.dia58.CircularLinkedList",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "edu.everton.dia56.Main",
