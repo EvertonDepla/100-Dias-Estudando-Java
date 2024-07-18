@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "edu.everton.dia71.Main",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "edu.everton.dia68.Main",
             "projectName": "Meu-primeiro-projeto-java_c7a49748"
         },
