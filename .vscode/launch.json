@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExercicioProposto01",
+            "request": "launch",
+            "mainClass": "edu.everton.dia78.ExercicioProposto01",
+            "projectName": "Meu-primeiro-projeto-java_c7a49748"
+        },
+        {
+            "type": "java",
             "name": "ExercicioProposto02",
             "request": "launch",
             "mainClass": "edu.everton.dia75.ExercicioProposto02",
